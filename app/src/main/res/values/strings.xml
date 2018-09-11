@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Dev</string>
+    <string name="main_screen_text">Android Programming showcase app</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+    <string name="contact_overview">Contact overview</string>
+</resources>
